@@ -16,28 +16,7 @@
       <h1 class="project-name">Shamol84.GitHub.io</h1>
       <h2 class="project-tagline"></h2>
     </section>
-<table align="center">
-			<tr>
-				<td colspan="2" bgcolor="#003366" style="padding:7px 7px 7px 7px;">
-					<h1>Mohammad Shabbir Hasan</h1><hr /><h3>Ph.D. Student, <a target="_blank" href="http://www.cs.vt.edu" style="color:#FFFFFF";>Computer Science</a>, <a target="_blank" href="http://www.vt.edu" style="color:#FFFFFF";>Virgina Tech</a></h3>
-				</td>				
-			</tr>
-			<tr>
-				<td width="180" valign="top" bgcolor="#D8DFEA">
-					<div class="style1" id="pageNavigator">
-						<div id="menuLinks">
-							<a href="index.html">Home</a>
-							<a href="education.html">Education</a>
-							<a href="research.html">Research</a>
-							<a href="projects.html">Projects</a>							
-							<a href="publications.html">Publications</a>
-							<a href="work_experience.html">Work Experience</a>
-							<a href="curriculum_vitae.html">Curriculum  Vitae</a>
-							<a href="whats_new.html">What's New!!</a>
-							<a href="personal.html">Personal Information</a>
-							<a href="contact.html">Contact</a>						</div>
-					</div>				
-			  	</td>
+
     <section class="main-content">
       <h4>
 <a id="hello-welcome-to-my-website" class="anchor" href="#hello-welcome-to-my-website." aria-hidden="true"><span class="octicon octicon-link"></span></a>Hello! Welcome to my website.</h4>
